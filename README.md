@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/berk-%C3%B6zcan-77bb67a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berk-ozcan" height="30" width="40" /></a>
 </p>
+<details>
 <summary><h3>About Me</h3></summary>
  
 #### Hello! 👋 Let me tell you more about myself. I am 23 years old. As part of StudioDx, a thriving subsidiary under the esteemed Sabancı Holding, I'm proud to contribute to our cutting-edge e-procurement platform PratisPro, revolutionizing digital procurement. Our platform stands out with robust features, including multi-language support for a global user base.
