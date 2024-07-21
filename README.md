@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">Experienced software developer from Istanbul</h3>
 
-- 🔭 I'm currently work at **SabancıDx**
+I'm currently work at **SabancıDx**
 
-- 🌱 I’m currently learning **Golang & Vue**
-
-- 💬 Ask me about **vue,.net,javascript**
-
-- 📫 How to reach me **berkozcanss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
