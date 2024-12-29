@@ -19,7 +19,6 @@ I'm currently work at **SabancıDx**
 
 #### It's an exhilarating journey here at StudioDx, where technology meets innovation. If you have something to share or ask, please feel free to contact me. :smile: 
 </details>
-<details>
  <summary><h3>Software Background</h3></summary>
 
 #### The ones that I actively work with:
@@ -29,4 +28,4 @@ I'm currently work at **SabancıDx**
 #### The ones that I am trying to gain experience
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase)![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
  
-</details>
+
